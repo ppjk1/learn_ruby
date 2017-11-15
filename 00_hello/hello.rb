@@ -1,1 +1,8 @@
-#write your code here
+#write your code Here
+def hello
+  "Hello!"
+end
+
+def greet who
+  "Hello, #{who}!"
+end
